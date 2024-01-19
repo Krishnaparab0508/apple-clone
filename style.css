@@ -1,6 +1,6 @@
 @font-face {
   font-family: FontRegular;
-  src: url(/Assets/fonts/sf-pro-display_regular.ttf);
+  src: url(Assets/fonts/sf-pro-display_regular.ttf);
 }
 * {
   margin: 0;
@@ -41,7 +41,7 @@ nav i {
   justify-content: center;
   width: 100%;
   height: 70vh;
-  background-image: url(/Assets/hero_iphone15pro__i70z9oz3hj2i_largetall.jpg);
+  background-image: url(Assets/hero_iphone15pro__i70z9oz3hj2i_largetall.jpg);
   background-position: center;
 }
 .text-part-1 {
@@ -75,13 +75,13 @@ nav i {
   border-bottom: 1px solid rgb(48, 113, 178);
 }
 .part-2 {
-  background-image: url(/Assets/hero_iphone15_announce__uuemlcwczn6u_largetall.jpg);
+  background-image: url(Assets/hero_iphone15_announce__uuemlcwczn6u_largetall.jpg);
 }
 .text-part-2 {
   color: #333;
 }
 .part-3 {
-  background-image: url(/Assets/image3.jpg);
+  background-image: url(Assets/image3.jpg);
 }
 .part-4 {
   width: 100%;
@@ -90,25 +90,25 @@ nav i {
 .part-4-1,
 .part-4-2 {
   width: 50%;
-  background-image: url(/Assets/4-1.jpg);
+  background-image: url(Assets/4-1.jpg);
   background-repeat: no-repeat;
   height: 60vh;
 }
 .part-4-2 {
   width: 50%;
-  background-image: url(/Assets/4-2.jpg);
+  background-image: url(Assets/4-2.jpg);
   background-repeat: no-repeat;
   height: 60vh;
 }
 .part-4-3 {
   width: 50%;
-  background-image: url(/Assets/promo_bts2023_startframe__exvt2t1iuxme_medium.jpg);
+  background-image: url(Assets/promo_bts2023_startframe__exvt2t1iuxme_medium.jpg);
   background-repeat: no-repeat;
   height: 60vh;
 }
 .part-4-4 {
   width: 50%;
-  background-image: url(/Assets/hero_apple_watch_series_9_order__d0fi9mb84dci_mediumtall.jpg);
+  background-image: url(Assets/hero_apple_watch_series_9_order__d0fi9mb84dci_mediumtall.jpg);
   background-repeat: no-repeat;
   height: 60vh;
 }
@@ -151,22 +151,22 @@ nav i {
 }
 
 .swiper-1 {
-  background-image: url(/Assets/1.jpg);
+  background-image: url(Assets/1.jpg);
 }
 .swiper-2 {
-  background-image: url(/Assets/2.jpg);
+  background-image: url(Assets/2.jpg);
 }
 .swiper-3 {
-  background-image: url(/Assets/3.jpg);
+  background-image: url(Assets/3.jpg);
 }
 .swiper-4 {
-  background-image: url(/Assets/4.jpg);
+  background-image: url(Assets/4.jpg);
 }
 .swiper-5 {
-  background-image: url(/Assets/5.jpg);
+  background-image: url(Assets/5.jpg);
 }
 .swiper-6 {
-  background-image: url(/Assets/6.jpg);
+  background-image: url(Assets/6.jpg);
 }
 .ri-menu-3-line {
   display: none;
@@ -221,7 +221,7 @@ nav i {
     display: none;
   }
   #partO {
-    background-image: url(./Assets/resp1.jpg);
+    background-image: url(Assets/resp1.jpg);
   }
   .slider-part {
     height: 50vh;
@@ -271,7 +271,7 @@ nav i {
     font-size: 5.2vw;
   }
   .part-2 {
-    background-image: url(./Assets/resp2.jpg);
+    background-image: url(Assets/resp2.jpg);
   }
   .part-4 {
     flex-direction: column;
